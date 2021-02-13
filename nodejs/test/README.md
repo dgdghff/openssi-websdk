@@ -9,14 +9,14 @@ A mocha test suite is provided for integration testing as well as to document co
 
 ```env
 ACCOUNT_URL=
-ADMIN_NAME=
-ADMIN_PASSWORD=
-ISSUER_AGENT_NAME=
-ISSUER_AGENT_PASSWORD=
-HOLDER_AGENT_NAME=
-HOLDER_AGENT_PASSWORD=
-VERIFIER_AGENT_NAME=
-VERIFIER_AGENT_PASSWORD=
+ADMIN_NAME= Julie Pena
+ADMIN_PASSWORD= cloe
+ISSUER_AGENT_NAME= Valerie Garcia 
+ISSUER_AGENT_PASSWORD= lonlon
+HOLDER_AGENT_NAME= cassandra hernandez
+HOLDER_AGENT_PASSWORD= babymaggie3
+VERIFIER_AGENT_NAME= madeline 
+VERIFIER_AGENT_PASSWORD= melvin
 ```
 
 The `ACCOUNT_URL` can be obtained from the browser's address bar when accessing the agency dashboard. It will appear similar to `https://<guid>.<subdomain>.containers.appdomain.cloud`.
